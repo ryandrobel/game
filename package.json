@@ -5,7 +5,9 @@
   "scripts": {
     "start": "gulp watch"
   },
-  "dependencies": {},
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-clean-css": "^3.10.0",
